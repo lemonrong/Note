@@ -1,7 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1524461197606" ID="ID_365043748" MODIFIED="1524461286171" TEXT="The Solution Tango">
+<node COLOR="#000000" CREATED="1524461197606" ID="ID_365043748" MODIFIED="1524708485960" TEXT="The Solution Tango">
 <font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <node COLOR="#0033ff" CREATED="1524461197606" ID="ID_558530511" MODIFIED="1524461246084" POSITION="right" TEXT="1. &#x805a;&#x7126;&#x7b54;&#x6848;&#x6a21;&#x5f0f;&#x7ba1;&#x7406;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
